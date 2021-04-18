@@ -9,3 +9,4 @@ Os projetos deste repositório são os seguintes:
 * [Desafio: Conceitos do Node.js](https://github.com/fpsaraiva/ignite-nodejs-desafio01)
 * [Desafio: Trabalhando com Middlewares](https://github.com/fpsaraiva/ignite-nodejs-desafio02)
 * [Desafio: Corrigindo o código](https://github.com/fpsaraiva/ignite-nodejs-desafio03)
+* [Desafio: Introdução ao SOLID](https://github.com/fpsaraiva/ignite-nodejs-solid)
